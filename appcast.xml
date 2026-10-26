@@ -9,7 +9,8 @@
       <sparkle:shortVersionString>0.7.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<p>Fixes downloads from Amazon S3 links (Adobe Podcast and others), adds automatic updates and the compact download window.</p>]]></description>
-      <enclosure url="https://github.com/hassantariq1417/my-idm-releases/releases/download/v0.7.2/MyIDM-0.7.2.dmg" type="application/octet-stream" sparkle:edSignature="UInW0e0uKYuSNtk3ZSjsu0TAq8dcjvLvgw1t2wMZh41itO6E/FGLy7VTYgeh2sNcVzq8sQaq6+TK/ZnSpxsTCQ==" length="7510703"/>
+      <sparkle:informationalUpdate/>
+      <link>https://github.com/hassantariq1417/my-idm-releases/releases/tag/v0.7.2</link>
     </item>
   </channel>
 </rss>
